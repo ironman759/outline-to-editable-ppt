@@ -1,0 +1,12 @@
+{
+  "canvas_inches": [13.333333, 7.5],
+  "font": "Microsoft YaHei",
+  "colors": {"background": "FFFFFF", "ink": "171717", "muted": "64707B", "accent": "C62828", "line": "D9DFE3"},
+  "sizes_pt": {"title": 30, "body": 22, "caption": 18, "page_number": 12, "cover_title": 44, "cover_subtitle": 32},
+  "title_box_inches": [0.55, 0.34, 10.23, 0.66],
+  "page_number_box_inches": [11.76, 7.11, 1, 0.24],
+  "logo": null,
+  "illustration_style": "BioArt scientific illustration",
+  "animation": false,
+  "autoplay": false
+}
